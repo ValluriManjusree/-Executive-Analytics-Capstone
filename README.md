@@ -1,6 +1,6 @@
 ### Slide 1 – Introduction
 
-“Hello everyone. My name is Sai Aishwarya.
+“Hello everyone. My name is Valluri Manjusree.
 
 This presentation is about my Executive Analytics Capstone on **Customer Churn Analytics**.
 
